@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1498834345 source:d:\anel\batallanaval1\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<vector>
+	"Bote.h"
+
+1499406495 d:\anel\batallanaval1\include\bote.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<vector>
+	<string>
+
+1496896394 source:d:\anel\batallanaval1\src\bote.cpp
+	"Bote.h"
+
